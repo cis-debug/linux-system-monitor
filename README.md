@@ -29,7 +29,7 @@ Il surveille les ressources principales de la machine (**CPU, mémoire, disque**
 ## Installation
 
 ```bash
-git clone https://github.com/<TON_PSEUDO_GITHUB>/linux-system-monitor.git
+git clone https://github.com/<cis-debug_GITHUB>/linux-system-monitor.git
 cd linux-system-monitor
 chmod +x monitor.sh
 
