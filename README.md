@@ -48,3 +48,25 @@ chmod +x monitor.sh
 
 # Aide
 ./monitor.sh -h
+
+## Exemple de sortie
+========================================
+        LINUX SYSTEM MONITOR
+========================================
+Updated        : 2026-09-02 16:41:25
+
+CPU Usage       :   1%
+Memory Usage    :   7%
+Disk Usage      :   1%
+
+========================================
+STATUS
+========================================
+
+CPU            : OK
+Memory         : OK
+Disk           : OK
+
+Overall Status : OK
+
+Seuils (W/C)    : CPU=80/95  MEM=80/95  DISK=90/95  Interval=2s
